@@ -20,7 +20,8 @@ import 'package:flutter/material.dart';
 //import 'widget_13.dart';
 //import 'conectivity.dart';
 //import 'switch.dart';
-import 'animated.dart';
+//import 'animated.dart';
+import 'tab.dart';
 /*void main() {
   runApp(MaterialApp(
     home: Scaffold(
