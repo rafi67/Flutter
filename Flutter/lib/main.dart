@@ -21,7 +21,8 @@ import 'package:flutter/material.dart';
 //import 'conectivity.dart';
 //import 'switch.dart';
 //import 'animated.dart';
-import 'tab.dart';
+//import 'tab.dart';
+import 'var&hor.dart';
 /*void main() {
   runApp(MaterialApp(
     home: Scaffold(
