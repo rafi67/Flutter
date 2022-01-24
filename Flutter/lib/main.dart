@@ -22,7 +22,8 @@ import 'package:flutter/material.dart';
 //import 'switch.dart';
 //import 'animated.dart';
 //import 'tab.dart';
-import 'var&hor.dart';
+//import 'var&hor.dart';
+import 'spin.dart';
 /*void main() {
   runApp(MaterialApp(
     home: Scaffold(
